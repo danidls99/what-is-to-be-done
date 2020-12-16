@@ -1,0 +1,45 @@
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+  
+    font-size: 20pt;
+}
+
+.intro {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+}
+.beliefs {
+    font-size: 17pt;
+}
+
+.questions {
+    font-size: 30pt;
+}
+
+.ask {
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid black;
+    font-weight: bold;
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid black;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color:red;
+    border-bottom: 2px solid red;
+  }
